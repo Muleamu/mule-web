@@ -8,14 +8,39 @@ h2{
     color: aqua;
 
 }
-h3{
-    color: aqua;
+#heading{
+    color: rgb(0, 30, 255);
+    font-size: 200px;
 }
+
 br{
     border-style: none;
     border-style: dotted;
     border-color: white;
     border-width: 5px;
     width: 5%;
+
+}
+
+.d1{
+    background-color: darkolivegreen;
+    border-color: aquamarine;
+    border: solid 10px;
+    width: 200px;
+    height: 150px;
+   padding: 30px;
+   margin-left: 400px;
+ 
+
+}
+
+
+.d2{
+    background-color: darkolivegreen;
+    border: solid 10px;
+    width: 200px;
+    height: 150px;
+    padding: 30px;
+
 
 }
