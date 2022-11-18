@@ -6,6 +6,7 @@ h1{
 }
 h2{
     color: aqua;
+    text-align: center;
 
 }
 #heading{
@@ -66,4 +67,13 @@ b{
     background-color: white;
     padding: 10px;
     margin-left: 200px;
+    display: -webkit-inline-box;
+}
+p{
+    display: flex;
+    position: relative;
+    border: solid 2px blue;
+}
+li{
+
 }
